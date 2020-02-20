@@ -1,2 +1,0 @@
-# Saaash
-Created with CodeSandbox
